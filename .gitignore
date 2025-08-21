@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtualenv
+venv/
+ENV/
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Coverage
+htmlcov/
+.coverage
+
+# SQLite / DB
+*.sqlite3
