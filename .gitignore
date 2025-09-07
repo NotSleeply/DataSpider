@@ -21,6 +21,8 @@ ENV/
 .env
 
 # Editor / OS
+.github
+.github/
 .vscode/
 .idea/
 *.sublime-project
